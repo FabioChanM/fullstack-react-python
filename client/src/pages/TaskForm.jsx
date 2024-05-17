@@ -1,3 +1,3 @@
-export function TaskPage() {
+export function TaskFormPage() {
   return <div>TaskPage</div>;
 }
