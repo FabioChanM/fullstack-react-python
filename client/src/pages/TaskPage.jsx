@@ -1,3 +1,5 @@
+import  {TaskList}  from "../molecules/TaskList";
+
 export function TaskPage() {
-  return <div>Hola mundo</div>;
+  return <TaskList/>;
 }
